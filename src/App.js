@@ -1,4 +1,5 @@
 import React from 'react';
+<<<<<<< HEAD
 import logo from './logo.svg';
 import './App.css';
 
@@ -19,8 +20,19 @@ function App() {
           Learn React
         </a>
       </header>
+=======
+
+function App(){
+  return(
+    <div>
+      <h1>Hello React</h1>
+>>>>>>> 1c07fe0486a5138687eeddaead3e1b9e72a061ee
     </div>
   );
 }
 
+<<<<<<< HEAD
 export default App;
+=======
+export default App;
+>>>>>>> 1c07fe0486a5138687eeddaead3e1b9e72a061ee
